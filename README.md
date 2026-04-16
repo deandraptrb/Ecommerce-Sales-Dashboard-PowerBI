@@ -23,12 +23,13 @@ This project was created while following the tutorial by **Freedom Oboh**.
 ## Dataset
 
 You can download the full dataset here:  
-**[Download Dataset Folder](https://drive.google.com/drive/folders/19PbLSghmquYvL46NUew7Qf6sns5zEHOR?usp=sharing)**
+[Download Dataset Folder](https://drive.google.com/drive/folders/19PbLSghmquYvL46NUew7Qf6sns5zEHOR?usp=sharing)
+
 ---
 
 ## How to Use
 
-1. Download the `Ecommerce Dashboard.pbix` file
+1. Download the `[Project] Power BI - E-commerce Dashboard.pbix` file
 2. Open it with **Power BI Desktop**
 3. Click **Refresh** to load the data (if needed)
 
